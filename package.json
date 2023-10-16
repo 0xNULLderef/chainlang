@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "NULLderef",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.8.6"
   }
