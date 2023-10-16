@@ -1,0 +1,10 @@
+{
+  "name": "chainlang",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "NULLderef",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.6"
+  }
+}
